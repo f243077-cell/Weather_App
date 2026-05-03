@@ -6,7 +6,8 @@ A Flutter weather application that displays real-time weather data using the [Op
 
 ## 📱 Screenshots
 
->
+><img width="700" height="313" alt="Screenshot 2026-05-03 155337" src="https://github.com/user-attachments/assets/49e35f26-c0f6-42d1-99cf-b5e6293eef31" />
+
 
 
 ---
